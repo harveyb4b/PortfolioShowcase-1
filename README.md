@@ -6,7 +6,7 @@ The Random Password Generator will help you save time by generating you a passwo
 <img src="lib\readmeImages\RandomPasswordGenerator.PNG">
 
 If you are interested in creating a password select what parameters you would like to add 
-<img src="lib\readmeImages\RandomPasswordGeneratorParameters.PNG"">
+<img src="lib\readmeImages\RandomPasswordGeneratorParameters.PNG">
 
 +UpperCase
 +LowerCase
